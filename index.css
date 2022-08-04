@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    background-color: rgb(233, 215, 207);
+}
+
+a {
+    text-decoration: none;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}

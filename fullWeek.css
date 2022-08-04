@@ -1,0 +1,25 @@
+body{
+    background-color: #9af5b4;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 600;
+    color: #e33955;
+}
+
+p{
+    font-family: 'Fira Sans Condensed', sans-serif;
+    font-weight: 400;
+}
+
+div{
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    font-size: medium;
+    font-weight: bold;
+}
