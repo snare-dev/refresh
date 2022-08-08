@@ -1,25 +1,33 @@
-body{
-    background-color: #9af5b4;
+body {
+  background-color: #9af5b4;
+  text-align: center;
 }
 
-h1{
-    text-align: center;
-    font-family: 'Oswald', sans-serif;
-    font-weight: 600;
-    color: #e33955;
+h1 {
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+  font-weight: 600;
+  color: rgb(71, 62, 62);
+  font-size: 48px;
+}
+li {
+  font-family: 'Fira Sans Condensed', sans-serif;
+  font-weight: 400;
+  color: rgb(83, 75, 75);
+  padding-bottom: 3px;
 }
 
-p{
-    font-family: 'Fira Sans Condensed', sans-serif;
-    font-weight: 400;
-}
-
-div{
-    text-align: center;
+ul{
+  list-style: none;
 }
 
 a {
-    text-decoration: none;
-    font-size: medium;
-    font-weight: bold;
+  text-decoration: none;
+  font-size: 15px;
+  font-weight: bold;
+  font-family: 'Fira Sans Condensed', sans-serif;
+  background-color: rgb(167, 1, 78);
+  color: #fff;
+  padding: 5px;
+  border-radius: 10px;
 }
