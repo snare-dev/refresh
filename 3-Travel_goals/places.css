@@ -47,6 +47,10 @@ main li img {
   object-fit: cover;
 }
 
+.item-content h2 {
+    margin: 0;
+}
+
 .item-content {
   padding: 24px;
   display: flex;
